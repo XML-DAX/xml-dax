@@ -1,0 +1,9 @@
+*.class
+*.iml
+
+# Ignore out directories
+target/
+bin/
+
+# Ignore Eclipse and intelliJ configuration files
+**/.idea
